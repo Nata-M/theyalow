@@ -1,0 +1,144 @@
+@media only screen and (max-width: 800px) {
+    header {
+        height: auto;
+    }
+    nav {
+        width: 100vw;
+        padding: 0;
+        align-items: flex-start;
+    }
+    .logo-container {
+        width: 28vw;
+        background-color: rgb(83, 80, 80);
+        padding: 8px 6px;
+        max-height: 30px;
+    }
+    .logo-container h1 {
+        font-size: 12px;
+        margin-left: 2px;
+    }
+    .logo-container img {
+        width: 20px;
+        height: 20px;
+    }
+    .nav-links {
+        width: auto;
+        box-shadow: none;
+        align-items: flex-start;
+        padding: 0;
+        margin: 0;
+    }
+    .nav-links {
+        padding: 0;
+    }
+    .nav-txt {
+        padding: 6px;
+        width: 24vw;
+        font-size: 10px;
+        padding: 8px 6px;
+        max-height: 30px;
+    }
+    .nav-txt li {
+        margin-left: 6px;
+    }
+    .nav-txt img {
+        width: 10px;
+    }
+    .slider-icons {
+        display: none;
+    }
+    .content-container {
+        flex-direction: column;
+        padding: 0;
+        margin: 0;
+        width: auto;
+        flex-grow: 0;
+    }
+    .player-pic {
+        width: 100%;
+    }
+    .txt-container {
+        display: none;
+    }
+    .images {
+        height: auto;
+    }
+    .img-container {
+        padding: 20px;
+    }
+    .img-container img {
+        width: 32px;
+        height: 32px;
+    }
+    .video-container {
+        height: auto;
+    }
+    .white {
+        display: none;
+    }
+    .first-cont {
+        width: 100%;
+    }
+    .video-container {
+        background-image: none;
+    }
+    .video-item {
+        width: 100%;
+        flex-direction: column;
+        margin: 0;
+        padding: 6px;
+    }
+    .txt {
+        width: 48%;
+        margin: 0;
+        padding: 0;
+        height: 150px;
+    }
+    .txt p {
+        font-size: 12px;
+    }
+    .video-cont {
+        margin-left: 2%;
+        width: 48%;
+        height: 150px;
+    }
+    .sec-container {
+        width: 100%;
+        margin-top: 6px;
+    }
+    .grey {
+        width: 100%;
+        padding: 6px 12px;
+        margin: 0;
+    }
+    .yellow {
+        font-size: 20px;
+        margin-left: 0;
+    }
+    .list-container {
+        display: none;
+    }
+    .div-flex {
+        width: 100%;
+        margin-left: 12px;
+        margin-top: 20px;
+    }
+    .laptop {
+        width: 100%;
+        margin: 0;
+    }
+    .laptop .laptop-first {
+        width: 38vw;
+    }
+    .banner {
+        width: 50px;
+        height: 50px;
+        font-size: 8px;
+    }
+    .laptop-sec {
+        width: 20vw;
+    }
+    .laptop-third {
+        width: 10vw;
+    }
+  }
