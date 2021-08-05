@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 15" width="15" height="15">
+	<title>bnner+header</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #f5c506 } 
+	</style>
+	<g id="bnner+header">
+		<g id="player">
+			<path id="Shape 9" class="shp0" d="M9.37 7.98L9.37 7.02L15 7.02L15 7.98L9.37 7.98ZM9.18 5.18L14.26 2.75L14.68 3.61L9.6 6.04L9.18 5.18ZM8.75 3.04L12.24 0L12.76 0.59L9.27 3.63L8.75 3.04ZM3.26 10.35L3.26 7.79L3.26 7.2L3.26 4.65C4.71 3.33 6.47 2.65 7.68 1.18L7.68 7.2L7.68 7.79L7.68 13.82C6.47 12.34 4.71 11.67 3.26 10.35ZM0 4.66L2.91 4.66L2.91 10.3L0 10.3L0 4.66ZM12.76 14.41L12.24 15L8.75 11.96L9.27 11.36L12.76 14.41ZM9.41 9.01L14.48 11.43L14.07 12.3L8.99 9.87L9.41 9.01Z" />
+		</g>
+	</g>
+</svg>
